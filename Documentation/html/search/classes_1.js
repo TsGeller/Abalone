@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['controller_83',['Controller',['../class_controller.html',1,'']]]
+  ['ui_5fmainwindow_3',['Ui_MainWindow',['../class_ui___main_window.html',1,'']]]
 ];

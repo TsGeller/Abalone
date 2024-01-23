@@ -58,7 +58,7 @@ PROJECT_LOGO           =
 # entered, it will be relative to the location where doxygen was started. If
 # left blank the current directory will be used.
 
-OUTPUT_DIRECTORY       = D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Documentation
+OUTPUT_DIRECTORY       = Documentation
 
 # If the CREATE_SUBDIRS tag is set to YES then doxygen will create 4096 sub-
 # directories (in 2 levels) under the output directory of each output format and
@@ -864,12 +864,10 @@ WARN_LOGFILE           =
 # spaces. See also FILE_PATTERNS and EXTENSION_MAPPING
 # Note: If this tag is empty the current directory is searched.
 
-INPUT                  = D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Abalone-55085-53135 \
-                         D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Abalone-55085-53135\controller \
-                         D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Abalone-55085-53135\model\dp \
-                         D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Abalone-55085-53135\model \
-                         D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Abalone-55085-53135\main.cpp \
-                         D:\ESI\2eme\Q2\DEV4\gitProjet\j-schumachervincke-t-geller\Abalone-55085-53135\view
+INPUT                  = C:\Users\Jan\Documents\CoursESI\DEV4\Projet\Abalone-55085-53135\controller \
+                         C:\Users\Jan\Documents\CoursESI\DEV4\Projet\Abalone-55085-53135\model \
+                         C:\Users\Jan\Documents\CoursESI\DEV4\Projet\Abalone-55085-53135\model\dp \
+                         C:\Users\Jan\Documents\CoursESI\DEV4\Projet\Abalone-55085-53135\view
 
 # This tag can be used to specify the character encoding of the source files
 # that doxygen parses. Internally doxygen uses the UTF-8 encoding. Doxygen uses

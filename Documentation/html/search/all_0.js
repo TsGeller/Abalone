@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['askcommand_0',['askCommand',['../class_view.html#a87cc071d4e91272f8c14488245225c31',1,'View']]]
+  ['mainwindow_0',['MainWindow',['../class_ui_1_1_main_window.html',1,'Ui']]]
 ];

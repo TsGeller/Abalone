@@ -7,7 +7,6 @@ QMAKE_CXXFLAGS += -pedantic-errors\
                   -std=c++17\
                   -Wall\
                   -Wuninitialized
-
 SOURCES += \
         controller/Controller.cpp \
         main.cpp \
@@ -38,6 +37,3 @@ HEADERS += \
     model/dp/Subject.h \
     test/catch.hpp \
     view/View.h
-
-FORMS += \
-    dialog.ui

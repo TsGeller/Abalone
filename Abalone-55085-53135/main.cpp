@@ -4,13 +4,15 @@
 #include "model/Game.h"
 #include "view/View.h"
 
+//#include <QApplication>
+
 #include <iostream>
 
-#define RUN_TEST 1 //1 for run projet, 0 for test
+#define RUN_TEST 0 //0 for run projet, 1 for test
 
 using namespace std;
 
-#if RUN_TEST==1
+#if RUN_TEST==0
 int main()
 {
     Game game{};
@@ -24,5 +26,6 @@ int main(int argc, char * const argv[])
 {
     Catch::Session().run(argc, argv);
 }
+
 
 #endif
